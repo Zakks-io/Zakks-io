@@ -6,8 +6,7 @@
 ---
 
 ### 🛠️ What I Do
-- 🎮 **Game Localization:** Crafting natural Indonesian translation mods for PC games.
-- 🎬 **Video Editing:** Creating high-quality trailers, showcases, and devlogs.
+- 🎮 **Game Localization:** Creating natural Indonesian translation mods for PC games.
 - ⚙️ **Tools & Automation:** Building extraction and packing scripts for game assets.
 
 ---
