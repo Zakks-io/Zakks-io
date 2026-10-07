@@ -1,7 +1,6 @@
 # Hi, I'm ZiakK 👋
 
-> Game Modding & Video Editing Enthusiast
-> Translating PC games to Indonesian 🇮🇩
+> Game Modding & Video Editing Enthusiast | Translating PC games to Indonesian 🇮🇩
 
 ---
 
